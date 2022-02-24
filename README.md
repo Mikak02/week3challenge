@@ -12,5 +12,4 @@ This project is designed to create a random password that can be customized by t
 [Password Generator] (https://mikak02.github.io/week3challenge/)
 
 ## Screenshot
-![Screenshot of website]
-(/assets/screenshot.png)
+![Screenshot of website](/assets/screenshot.png)
